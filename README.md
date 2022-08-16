@@ -1,4 +1,4 @@
-[![MasterHead]("https://drive.google.com/file/d/12jELV_tdeBIWLDM6hpuL8uVr15U2quz2/view?usp=sharing")]
+[![MasterHead]("https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w")]
 <h1 align="center">Hi 👋, I'm Ritik Saini</h1>
 <h3 align="center">A aspiring Data Scientist From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
