@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Saini</h1>
-<h3 align="center">A aspiring Data Scientist From India</h3>
+<h3 align="center">A Aspiring Data Scientist From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritiksaini469&label=Profile%20views&color=0e75b6&style=flat" alt="ritiksaini469" /> </p>
 
