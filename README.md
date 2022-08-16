@@ -1,5 +1,6 @@
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Ritik Saini</h1>
-<h3 align="center">A Aspiring Data Scientist From India</h3>
+<h3 align="center">A aspiring Data Scientist From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritiksaini469&label=Profile%20views&color=0e75b6&style=flat" alt="ritiksaini469" /> </p>
@@ -7,6 +8,10 @@
 <p align="left"> <a href="https://twitter.com/ritiksaini469" target="blank"><img src="https://img.shields.io/twitter/follow/ritiksaini469?logo=twitter&style=for-the-badge" alt="ritiksaini469" /></a> </p>
 
 - 🔭 I’m currently working on **Internship @ CollegeFinder**
+
+- 🌱 I’m currently learning **Statistics, Machine Learning and Neural Network**
+
+- 💬 Ask me about **Python, SQL**
 
 - 📫 How to reach me **ritiksaini469@gmail.com**
 
