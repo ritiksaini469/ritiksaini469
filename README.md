@@ -35,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksaini469&" alt="ritiksaini469" /></p>
 ![My Remote Image](https://www.dropbox.com/s/mffi8b9p8vyh4ni/LetsUpgrade%20%20Python%20%26%20Machine%20Learning%20Essentials%20Bootcamp.jpg?dl=0)
+<img src="https://user-images.githubusercontent.com/109962287/185078701-dfbb859d-a86f-416d-88d5-acb477ad2bca.jpg" width="15%"></img> 
