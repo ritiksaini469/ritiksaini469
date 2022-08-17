@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritiksaini469&show_icons=true&locale=en" alt="ritiksaini469" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksaini469&" alt="ritiksaini469" /></p>
-<img src="https://user-images.githubusercontent.com/109962287/185078701-dfbb859d-a86f-416d-88d5-acb477ad2bca.jpg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/109962287/185078701-dfbb859d-a86f-416d-88d5-acb477ad2bca.jpg" width="90%"></img> 
