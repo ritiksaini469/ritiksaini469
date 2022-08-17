@@ -31,6 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritiksaini469&show_icons=true&locale=en&layout=compact" alt="ritiksaini469" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritiksaini469&show_icons=true&locale=en" alt="ritiksaini469" /></p>
-
+<h3 align="left">Certificates::</h3>
+<p align="left">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksaini469&" alt="ritiksaini469" /></p>
 <img src="https://user-images.githubusercontent.com/109962287/185078701-dfbb859d-a86f-416d-88d5-acb477ad2bca.jpg" width="90%"></img> 
