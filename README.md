@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritiksaini469" target="blank"><img src="https://img.shields.io/twitter/follow/ritiksaini469?logo=twitter&style=for-the-badge" alt="ritiksaini469" /></a> </p>
 
-- 🔭 I’m currently working on **Internship @ CollegeFinder**
+- 🔭 I’m currently working on **Data Science & Business Analytics Intern @ The Spark Foundation**
 
 - 🌱 I’m currently learning **Statistics, Machine Learning and Neural Network**
 
